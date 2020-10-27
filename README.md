@@ -5,7 +5,7 @@ Ethereum Gas App
 
 Last updated: 10/27/2020
 
-We are the developers of Ethereum Gas. This privacy policy describes how we process your personal information and which privacy rights you have when you are using Ethereum Gas. Please contact us at the contact information below if you have any questions or comments.
+This privacy policy describes how we process your personal information and which privacy rights you have when you are using Ethereum Gas. Please contact us at the contact information below if you have any questions or comments.
 
 Personal Information Collection and Use
 Personal Information Sharing
